@@ -76,15 +76,12 @@ A dedicated dashboard was created using Power BI that showcases:
 
 ## 📁 Screenshots from EDA and Modeling
 
-Sample screenshots from the project:
+| Confusion Matrix | Word Clouds | Sentiment Trends |
+|------------------|-------------|------------------|
+| ![ccm1](images/ccm1.png) | ![ccm2](images/ccm2.png) | ![ccm3](images/ccm3.png) |
+| ![ccm4](images/ccm4.png) | ![ccm5](images/ccm5.png) | ![ccm6](images/ccm6.png) |
+| ![ccm7](images/ccm7.png) | ![ccm8](images/ccm8.png) | ![ccm9](images/ccm9.png) |
 
-| Confusion Matrix | Word Clouds | Sentiment Distribution |
-|------------------|-------------|-------------------------|
-| ![](images/ccm1.png) | ![](images/ccm6.png) | ![](images/ccm3.png) |
-
-(For more, see `images/` folder)
-
----
 
 ## 🚀 Flask Sentiment Classifier
 
@@ -112,13 +109,12 @@ This project uses Natural Language Processing (NLP) techniques to analyze public
 This project was part of my internship under the mentorship of Unified Mentor Pvt Ltd. It helped me enhance my skills in data analysis, NLP, visualization, and deployment of a real-world data science solution.
 
 📂 Download Power BI File
-Download the .pbix file from this repo or [Google Drive link if >100MB].
-
+Download the climate_sentiment_dashboard .pbix file
 Filename: climate_sentiment_dashboard.pbix
 
 📬 Contact
 Silla Shaju
 Data Science Intern
 📫 saranammanariyil@gmail.com
-📍 Bengaluru, India
+📍 Kerala, India
 🌐https://www.linkedin.com/in/silla-shaju-309b66322?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
