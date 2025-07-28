@@ -23,13 +23,9 @@ def predict():
         return render_template('index.html', comment=comment, prediction=prediction)
 
 def open_browser():
-    # Give Flask a second to start
-    time.sleep(1)
+    time.sleep(1)  # Let the server start
     webbrowser.open_new('http://127.0.0.1:5000/')
 
 if __name__ == '__main__':
-    # Start browser thread
     threading.Thread(target=open_browser).start()
-    
-    # Start Flask app
     app.run(debug=False, use_reloader=False)
