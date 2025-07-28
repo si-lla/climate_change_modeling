@@ -108,9 +108,9 @@ This project uses Natural Language Processing (NLP) techniques to analyze public
 📎 Internship Note
 This project was part of my internship under the mentorship of Unified Mentor Pvt Ltd. It helped me enhance my skills in data analysis, NLP, visualization, and deployment of a real-world data science solution.
 
-📂 Download Power BI File
-Download the climate_sentiment_dashboard .pbix file
-Filename: climate_sentiment_dashboard.pbix
+📂 Download Power BI File  
+You can download the Power BI dashboard file from this repo:  
+📎 [climate_sentiment_dashboard.pbix](https://github.com/si-lla/climate_change_modeling/raw/main/climate_sentiment_dashboard.pbix)
 
 📬 Contact
 Silla Shaju
