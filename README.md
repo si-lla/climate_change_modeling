@@ -82,6 +82,11 @@ A dedicated dashboard was created using Power BI that showcases:
 | ![ccm4](images/ccm4.png) | ![ccm5](images/ccm5.png) | ![ccm6](images/ccm6.png) |
 | ![ccm7](images/ccm7.png) | ![ccm8](images/ccm8.png) | ![ccm9](images/ccm9.png) |
 
+📂 Download Power BI File  
+You can download the Power BI dashboard file from this repo:  
+📎 [climate_sentiment_dashboard.pbix](https://github.com/si-lla/climate_change_modeling/raw/main/climate_sentiment_dashboard.pbix)
+
+
 
 ## 🚀 Flask Sentiment Classifier
 
@@ -107,10 +112,6 @@ This project uses Natural Language Processing (NLP) techniques to analyze public
 - **Evaluation**: Classification Report and Confusion Matrix used to validate performance.
 📎 Internship Note
 This project was part of my internship under the mentorship of Unified Mentor Pvt Ltd. It helped me enhance my skills in data analysis, NLP, visualization, and deployment of a real-world data science solution.
-
-📂 Download Power BI File  
-You can download the Power BI dashboard file from this repo:  
-📎 [climate_sentiment_dashboard.pbix](https://github.com/si-lla/climate_change_modeling/raw/main/climate_sentiment_dashboard.pbix)
 
 📬 Contact
 Silla Shaju
