@@ -1,4 +1,4 @@
-# 🌍 Climate Change Sentiment Analysis — Internship Project
+# 🌍 Climate Change Sentiment Analysis
 
 This project was completed as part of my 3-month internship at **Unified Mentor Pvt Ltd**. It focuses on analyzing public sentiment toward climate change using real Facebook comments posted on NASA’s official page. The project includes sentiment classification using NLP and visual storytelling using Power BI and Flask.
 
